@@ -1,3 +1,7 @@
+This repository is for the Accerdian task-frontend part for login-signup.
+
+Reactjs and Material UI are used in the frontend.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
